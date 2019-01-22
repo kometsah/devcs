@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547924209889.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2A5AF05F",
+    "lastKnownWriteTime" : 1548062578,
+    "last_content_update" : 1548062578860,
+    "path" : "E:/PROJECT/KR Project/devcs/devcs/creditscoring.R",
+    "project_path" : "creditscoring.R",
+    "properties" : {
+        "cursorPosition" : "44,52",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

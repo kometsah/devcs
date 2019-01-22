@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548062711809.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2A6814A8",
+    "lastKnownWriteTime" : 1548133277,
+    "last_content_update" : 1548133277976,
+    "path" : "E:/PROJECT/KR Project/devcs/devcs/Dashboard01/ui.R",
+    "project_path" : "Dashboard01/ui.R",
+    "properties" : {
+        "cursorPosition" : "39,36",
+        "scrollLine" : "20"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

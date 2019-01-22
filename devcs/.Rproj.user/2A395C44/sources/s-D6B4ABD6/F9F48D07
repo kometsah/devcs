@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548062711990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1576313247",
+    "id" : "F9F48D07",
+    "lastKnownWriteTime" : 1548070741,
+    "last_content_update" : 1548070742001,
+    "path" : "E:/PROJECT/KR Project/devcs/devcs/Dashboard01/server.R",
+    "project_path" : "Dashboard01/server.R",
+    "properties" : {
+        "cursorPosition" : "28,3",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
